@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine learning & Data Science**
 
-- 👨‍💻Feel Free to reach out to me here: **sakshijejurkar96@gmail.com**
+- 👨‍💻Feel Free to reach out to me here: **ms.sakshijejurkar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
