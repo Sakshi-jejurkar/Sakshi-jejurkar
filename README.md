@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi-jejurkar&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi jejurkar" /> </p>
 
-- 🎓I'm a sophomore at PREC Loni Studing **Electronics & Computer Engineering**
+- 🎓I'm a sophomore at PREC Loni Studying **Electronics & Computer Engineering**
 
 - 🌱 I’m currently learning **Machine learning & Data Science**
 
