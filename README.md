@@ -19,9 +19,10 @@
   <a href="https://leetcode.com/u/Saku2004" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" style="margin-right: 15px;" />
   </a>
-   <a href="https://www.codechef.com/users/jejurkarsakshi" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Codechef_logo.svg" alt="CodeChef" height="30" width="40" style="margin-right: 15px;" />
+  <a href="https://www.codechef.com/users/jejurkarsakshi" target="_blank">
+  <img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/cc-logo.png" alt="CodeChef" height="30" width="100" style="margin-right: 15px;" />
   </a>
+
   <a href="https://auth.geeksforgeeks.org/user/sakshijejurkar/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" style="margin-right: 15px;" />
   </a>
