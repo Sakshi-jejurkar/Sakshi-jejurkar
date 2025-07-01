@@ -11,8 +11,8 @@
 - 👨‍💻Feel Free to reach out to me here: **ms.sakshijejurkar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<p align="center">
   <a href="https://leetcode.com/u/Saku2004" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" style="margin-right: 15px;" />
   </a>
