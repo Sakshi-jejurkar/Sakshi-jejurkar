@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi-jejurkar&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi jejurkar" /> </p>
 
-- 🎓I'm a sophomore at PREC Loni Studying **Electronics & Computer Engineering**
+-🎓 I have completed my Bachelor of Engineering in Electronics & Computer Engineering.
 
-- 🌱 I’m currently learning **Machine learning & Data Science**
+-🌱 I’m currently learning Data Engineering and Data Analytics.
 
-- 👨‍💻Feel Free to reach out to me here: **ms.sakshijejurkar@gmail.com**
+-💡 Interested in Data Analysis, Data Engineering, and Business Intelligence.
 
 <h3 align="left">Connect with me:</h3>
 
